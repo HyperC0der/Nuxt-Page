@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: "Nuxt-Page"
-  text: "A VitePress Site"
+  name: "HyperC0der个人站点"
+  text: "标题"
   tagline: My great project tagline
   actions:
     - theme: brand
