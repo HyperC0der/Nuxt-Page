@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "VitePress-测试主页",
   description: "HyperC0der个人博客",
-  base:'/Nuxt-Page/',
+  base:'/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
